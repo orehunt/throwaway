@@ -1,1 +1,1 @@
-/lib/rc/sh/functions.sh
+../../lib/rc/sh/functions.sh

@@ -5,6 +5,7 @@ ca-certificates
 coreutils
 dpkg
 fakeroot
+git
 glibc><Q1/D8T4LBCpKbenZzTtK3nQC5AeK8=
 glibc-bin><Q1gUCUxEvcEMemFSM3NKsOZPzekOA=
 glibc-i18n><Q1G3VhDyGyrdaWTn+Xr9M0Cl9mq8o=
