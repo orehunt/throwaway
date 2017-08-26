@@ -1,4 +1,16 @@
 alpine-base
+bash
+binutils
+ca-certificates
+coreutils
+dpkg
 fakeroot
 glibc><Q1/D8T4LBCpKbenZzTtK3nQC5AeK8=
+glibc-bin><Q1gUCUxEvcEMemFSM3NKsOZPzekOA=
+glibc-i18n><Q1G3VhDyGyrdaWTn+Xr9M0Cl9mq8o=
+libressl
 proxychains-ng
+shadow
+tar
+util-linux
+wget
