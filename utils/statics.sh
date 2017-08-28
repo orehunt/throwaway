@@ -8,4 +8,4 @@ fi
 wget https://raw.githubusercontent.com/minos-org/minos-static/master/static-get
 chmod +x static-get
 
-./static-get -x htop busybox
+./static-get -x htop busybox proot
